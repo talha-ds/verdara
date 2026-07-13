@@ -1,7 +1,7 @@
 {
-  "name": "backend",
+  "name": "verdara-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "REST API for Verdara, a full-stack e-commerce platform for natural and herbal products.",
   "main": "index.js",
 "scripts": {
     "start": "node server.js",
